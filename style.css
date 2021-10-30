@@ -1,0 +1,383 @@
+.nlist{
+    position: absolute;
+    margin-top: 35px;
+
+    margin-left: 25.5px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    /* identical to box height */
+
+    color: #FFFFFF;
+    white-space: nowrap;
+  
+}
+
+.icon{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 8px;
+    mix-blend-mode: normal;
+    opacity: 0.7;
+   
+    
+}
+
+.settings{
+    position: absolute;
+
+    margin-left: 94px;
+    margin-top: 7px;
+    align-self: center;
+    mix-blend-mode: normal;
+    opacity: 0.6;
+    
+}
+
+
+
+.treads{
+    position: absolute;
+    white-space: nowrap;
+
+    margin-top: 89px;
+
+    margin-left: 51px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    white-space: nowrap;
+
+    /* identical to box height */
+
+    color: #B5B5B5;
+   
+
+
+}
+
+.th{
+    position: absolute;
+
+    margin-left: 22px;
+    margin-top: 89px;
+
+
+    width: 18px;
+    height: 18px;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+
+    
+}
+
+
+
+.channels{
+    position: absolute;
+    white-space: nowrap;
+
+    margin-top: 138px;
+
+    margin-left: 24px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    /* identical to box height */
+    text-transform: uppercase;
+
+    color: #919191;
+    
+
+
+}
+
+.channels11{
+    position: absolute;
+    margin-top: 138px;
+
+    margin-left: 221px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    /* identical to box height */
+    text-align: right;
+    text-transform: uppercase;
+
+    color: #919191;
+
+
+}
+
+.general{
+    position: absolute;
+    white-space: nowrap;
+
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-left: 13px;
+    margin-top: 4px;
+
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+
+.back{
+    position: absolute;
+
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.2;
+
+}
+
+.support{
+    position: absolute;
+    white-space: nowrap;
+
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    margin-left: 13px;
+
+
+
+    /* identical to box height */
+
+    color: #B5B5B5;
+
+
+}
+
+.ch{
+    position:absolute;
+
+    margin-left: 23px;
+    margin-top: 167px;
+    
+    height: 260px;
+    width: 150px;
+    overflow: scroll;
+  
+}
+
+.friends{
+    position: absolute;
+    white-space: nowrap;
+
+    margin-top: 490px;
+    margin-left: 24.5px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    /* identical to box height */
+    text-transform: uppercase;
+
+    color: #919191;
+
+
+}
+
+.friends82{
+    position: absolute;
+    margin-top: 490px;
+    margin-left: 220px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    /* identical to box height */
+    text-align: right;
+    text-transform: uppercase;
+
+    color: #919191;
+
+
+}
+
+.fr{
+    position:absolute;
+
+    margin-left: 23px;
+    margin-top: 530px;
+    
+    height: 200px;
+    width: 160px;
+    overflow: scroll;
+  
+}
+
+
+
+
+.number{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    margin-bottom: 39;
+
+    color: #A4A4A4;
+
+
+}
+
+.girltext{
+    white-space: nowrap;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* identical to box height */
+
+    color: #000000;
+
+    margin-top: 14.5px;
+    margin-left: 20px;
+
+    margin-bottom: 0px;
+}
+
+.profiletext1{
+    
+    margin-left: 20.5px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+
+    margin-bottom: 0px;
+
+    /* identical to box height */
+
+    color: #5F6164;
+
+
+}
+
+.profiletext2{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #5F6164;
+
+
+}
+
+.profiletext3{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.generaltext1{
+    font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.generaltext2{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #8D8D8D;
+
+
+}
+
+.generaltext3{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+
+/* or 138% */
+
+color: #3577EF;
+}
+
+.generaltext4{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+
+/* or 154% */
+
+color: #000000;
+
+
+}
+
+.generaltext5{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #8D8D8D;
+
+
+}
